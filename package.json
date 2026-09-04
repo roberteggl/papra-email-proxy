@@ -42,15 +42,15 @@
   },
   "dependencies": {
     "@crowlog/logger": "^2.2.2",
-    "@owlrelay/webhook": "^0.0.3",
-    "postal-mime": "^2.7.5"
+    "@owlrelay/webhook": "^0.0.4",
+    "postal-mime": "^2.7.6"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.4",
-    "@vitest/coverage-v8": "^4.1.10",
+    "@biomejs/biome": "^2.5.12",
+    "@vitest/coverage-v8": "^4.1.11",
     "bumpp": "^11.1.0",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.10",
-    "wrangler": "^4.112.0"
+    "vitest": "^4.1.11",
+    "wrangler": "^4.129.0"
   }
 }
